@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="GiveMeHashFinal/GiveMeHashFinal.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GiveMeHashFinal/searchPage.aspx.cs">
+    <Files>
+      <File FileName="GiveMeHashFinal/Default.aspx" Line="1" Column="1" />
+      <File FileName="GiveMeHashFinal/searchPage.aspx" Line="1" Column="1" />
+      <File FileName="GiveMeHashFinal/searchPage.aspx.cs" Line="73" Column="15" />
+      <File FileName="GiveMeHashFinal/Default.aspx.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

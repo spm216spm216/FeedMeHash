@@ -1,0 +1,8 @@
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/bin/GiveMeHashFinal.dll.mdb
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/bin/GiveMeHashFinal.dll
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/obj/Debug/GiveMeHashFinal.dll
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/obj/Debug/GiveMeHashFinal.dll.mdb
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/bin/Hammock.ClientProfile.dll
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/bin/Newtonsoft.Json.dll
+/Users/Shane/Projects/GiveMeHashFinal/GiveMeHashFinal/bin/TweetSharp.dll
